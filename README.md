@@ -1,1 +1,2 @@
-# weird-paper
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
